@@ -2,6 +2,8 @@
 
 Este proyecto es una aplicación web desarrollada en Flask que te permite lanzar diferentes tipos de campañas de envío de mensajes y correos electrónicos, dependiendo de la API seleccionada y una base de datos SQLite o MariaDB.
 
+Puedes ver la estructura general del desarrollo en [plan.md](plan.md)
+
 ## Características
 
 - Interfaz de usuario intuitiva para gestionar campañas.
